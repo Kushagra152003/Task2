@@ -1,0 +1,9 @@
+Task 2:
+For this task, we’d like you to create a cloud-based AI workflow using your preferred tools (e.g., LangChain, CI/CD pipelines, and cloud platforms like AWS, Azure, or GCP). The workflow should include the following:
+
+Data Processing: Use a dataset of your choice (e.g., public datasets like Kaggle) to preprocess and clean the data.
+Model Training: Train a machine learning model (e.g., regression, classification) using the preprocessed data.
+Deployment: Deploy the trained model as a REST API using a cloud platform or framework like Flask/FastAPI.
+Testing: Include a test script to verify that the deployed model works as expected.
+Include comments explaining your approach to each step of the workflow.
+This task will allow you to demonstrate your end-to-end AI solution development skills, including data processing, model training, deployment, and cloud integration.
